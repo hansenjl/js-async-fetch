@@ -1,12 +1,14 @@
 # Intro to ASYNC JS, APIs, Fetch
 
-* Reminders to touch back on:
-  * console.log & debugger: our JS debugging tools
+* Additional Resources:
+ - http://latentflip.com/loupe
+ - https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f
+ - [Google Books API](https://developers.google.com/books/docs/v1/using)
 
 ## Key Topics:
 
 * ASYNC JS
-  * JS as a non-blocking language, intro the call stack/event loop 
+  * JS as a non-blocking language, intro the call stack/event loop
   * Why is this functionality important for JavaScript to have?
 
 * APIs
